@@ -6,5 +6,5 @@ layout: page
 
 ## Information
 
-This page represents the personal website of Johannes T.
+This page represents the personal website of Johannes Tölle.
 

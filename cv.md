@@ -4,72 +4,34 @@ permalink: "/cv/"
 layout: page
 ---
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Johannes Tölle
 
-## Currently
+## **Currently**
 
-Standing on the shoulders of giants
-
-### Specialized in
+Postodctoral researcher in the group of Prof. Dr. Neugebauer at the University of Münster.
 
 
-### Research interests
+## **Education**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018-2021` __Promotion__ (University of Münster)
 
+*   **Supervisor:** Prof. Dr. Johannes Neugebauer
+*   **Title:** Subsystem-Based Modeling of Photo-Induced Processes
 
-## Education
+`04.08.2017-10.02.2018` __Rutgers University, Newark__
 
-`1654-1660`
-__The King's School, Grantham.__
+*   **Research stay:** Prof. Dr. Michele Pavanello
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2018` __Master__ (University of Münster)
 
-- Sizar
+*  **Supervisor:** Prof. Dr. Johannes Neugebauer
+*   **Title:** Time Dependent Density Functional Theory with reduced orbital space
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2013-2018` __Bachelor__ (University of Münster)
 
-- Fellow
+*  **Supervisor:** Prof. Dr. Mark Waller / Prof. Dr. Johannes Neugebauer
+*   **Title:** Adaptive QM/MM on Graphical Processing Units
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
