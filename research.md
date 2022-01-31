@@ -44,7 +44,7 @@ The original publication can be found [here](https://onlinelibrary.wiley.com/doi
 </p>
 
 
-Embedded Quantum Espresso (eQE) represents a subsystem DFT implementation based on the periodic plane-wave code Quantum Espresso (QE).
+Embedded Quantum Espresso (eQE) represents a subsystem DFT implementation based on the periodic plane-wave code Quantum Espresso (QE). EQE is developed and maintained in the group of Prof. Dr. Pavanello at Rutgers University, Newark.
 The original publication can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25401).
 
 <p align="center">
