@@ -48,5 +48,5 @@ Embedded Quantum Espresso (eQE) represents a subsystem DFT implementation based 
 The original publication can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25401).
 
 <p align="center">
-<img src="./Pictures/Research/eQE.png" width="250">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/eQE.png" width="250">
 </p>
