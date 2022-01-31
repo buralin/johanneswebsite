@@ -16,20 +16,20 @@ My research activities are mainly focused on the development of subsystem-based 
 
 ## [Subsystem Time-Dependent Density Functional Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c04023?casa_token=HI9utkAKZ0sAAAAA:tS0s_6KkDEtPqslJsyCUdJ--Vnxi--QmEpxKDsgV1wkzrgv2zZjD3iXbe5oOhvTqSOxyQ_kg6siFdIN4) <a name="1"></a>
 <p align="center">
-<img src="./Pictures/Research/sTDDFT.png" width="400">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/sTDDFT.png" width="400">
 </p>
 
 ## [Many-Body Perturbation Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c01307?casa_token=GjfcImqAL0cAAAAA:oLP2cDRxYl1bz4Di7dM_1EYiPTBowouTz6CdyV2MWhb0X_XAVTGGM7f1utQislHasbmsoqDYNmAJVVs) <a name="2"></a>
 
 <p align="center">
-<img src="./Pictures/Research/HedinEquation.png" width="450">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/HedinEquation.png" width="450">
 </p>
 
 
 ## [Charged-Cell periodic DFT embedding](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25801?casa_token=WkIXLjyqLl0AAAAA%3AaMUoklMOqN2hDZJhBgj9iD5_owUeQBZxv4tggzuHz6WsoRKy1HBKcQa4d-7C1dg1jicwvyiTod8nDg) <a name="3"></a>
 
 <p align="center">
-<img src="./Pictures/Research/ImpurityEmbedding.jpg" width="300">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/ImpurityEmbedding.jpg" width="300">
 </p>
 
 ## [Software](https://github.com/qcserenity/serenity) <a name="4"></a>
@@ -40,7 +40,7 @@ Serenity is a molecular quantum chemistry code mainly developed and maintained i
 The original publication can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25162?casa_token=bvtyMCoN580AAAAA:wbmKGpRiCC3UgCR4NPWpKcOZ3vq9E_TivPaJaI6vtuQVGqQKHF4nn-8mM7iipu_z1xgNeTG86oyxXgI).
 
 <p align="center">
-<img src="./Pictures/Research/SerenityLogo.png" width="300">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/SerenityLogo.png" width="300">
 </p>
 
 
