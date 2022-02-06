@@ -8,7 +8,7 @@ layout: page
 
 ## **Currently**
 
-Postodctoral researcher in the group of Prof. Dr. Neugebauer at the University of Münster.
+Postdoctoral researcher in the group of Prof. Dr. Neugebauer at the University of Münster.
 
 
 ## **Education**
