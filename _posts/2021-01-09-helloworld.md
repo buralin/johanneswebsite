@@ -7,4 +7,4 @@ categories: media
 
 This is a first test for a post.
 
-***Hello Wolrd***
+***Hello World***
