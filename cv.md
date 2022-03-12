@@ -4,8 +4,6 @@ permalink: "/cv/"
 layout: page
 ---
 
-# Johannes Tölle
-
 ## **Currently**
 
 Postdoctoral researcher in the group of Prof. Dr. Neugebauer at the University of Münster.
@@ -18,7 +16,7 @@ Postdoctoral researcher in the group of Prof. Dr. Neugebauer at the University o
 *   **Supervisor:** Prof. Dr. Johannes Neugebauer
 *   **Title:** Subsystem-Based Modeling of Photo-Induced Processes
 
-`04.08.2017-10.02.2018` __Research stay__(Rutgers University, Newark)
+`04.08.2017-10.02.2018` __Research stay__ (Rutgers University, Newark)
 
 *   **Supervisor:** Prof. Dr. Michele Pavanello
 *   **Topic:** Charged-Cell periodic DFT embedding

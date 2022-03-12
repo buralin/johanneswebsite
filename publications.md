@@ -6,6 +6,8 @@ layout: page
 
 1. [**J. Tölle**, J. Neugebauer,’The Seamless Connection of Local and Collective Excited States in Subsystem Time-Dependent Density Functional Theory’, *J. Phys. Chem. Lett.*, **2022**, 13, 1003](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c04023?casa_token=HI9utkAKZ0sAAAAA:tS0s_6KkDEtPqslJsyCUdJ--Vnxi--QmEpxKDsgV1wkzrgv2zZjD3iXbe5oOhvTqSOxyQ_kg6siFdIN4)
 
+    <span style="color:grey">**Addition/Correction:** [*J. Phys. Chem. Lett.*, **2022**, 13, 1742–1743](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00340)</span>.
+
 
 2. [**J. Tölle**, T. Deilmann, M. Rohlfing, J. Neugebauer, ’Subsystem-based GW/Bethe–Salpeter-
 Equation’, *J. Chem. Theory Comput.*, **2021**, 17, 2186](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c01307?casa_token=GjfcImqAL0cAAAAA:oLP2cDRxYl1bz4Di7dM_1EYiPTBowouTz6CdyV2MWhb0X_XAVTGGM7f1utQislHasbmsoqDYNmAJVVs)
