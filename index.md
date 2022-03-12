@@ -4,7 +4,7 @@ title: "Biography"
 ---
 
 
-<p align="center">
+<p align="right">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/Research/Photo.png" width="100">
 </p>
 
