@@ -1,8 +1,13 @@
 ---
 layout: page
-title: ""
+title: "Biography"
 ---
 
-__Biography__
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/Photo.png" width="400">
+</p>
+
+
 
 I am a postdoctoral researcher at ... 
