@@ -4,4 +4,4 @@ permalink: "/blog/"
 layout: page
 ---
 
-Test
+Hier werde ich über meine Erlebnisse .... berichten.
