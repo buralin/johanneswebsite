@@ -6,10 +6,14 @@ layout: page
 
 ## **Currently**
 
-Postdoctoral researcher in the group of Prof. Dr. Neugebauer at the University of Münster.
+Postdoctoral researcher in the group of Prof. Dr. Chan at the Caltech.
 
 
 ## **Education**
+
+`Sep. 2021-March 2022 ` __Postodoctoral Researcher__  (University of Münster)
+
+*   **Supervisor:** Prof. Dr. Johannes Neugebauer
 
 `2018-2021` __Promotion__ (University of Münster)
 

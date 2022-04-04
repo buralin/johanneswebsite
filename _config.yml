@@ -1,6 +1,6 @@
 title: "Johannes Tölle"
 author: "Johannes Tölle"
-description: "University of Münster"
+description: "caltech"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:j_toel01@wwu.de"}
+  - {title: Mail, icon: envelope, url: "mailto:jtolle@caltech.de"}
   - {title: Github, icon: github, url: "https://github.com/buralin/johanneswebsite"}
 #  - {title: , icon: rss, url: "/feed.xml"}
 

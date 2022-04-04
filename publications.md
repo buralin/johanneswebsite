@@ -26,6 +26,7 @@ Energies within Subsystem-based Time-Dependent Density-Functional Theory’, *In
 Chem.*, **2020**, e26213
 ](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.26213)
 
+    <span style="color:grey">**(top cited article in the Int. J. of Quantum Chem. 2020 -2021)**</span>.
 
 6.  [**J. Tölle**, M. Böckers, N. Niemeyer, J. Neugebauer, ’Inter-Subsystem Charge-Transfer Excitations
 in Exact Subsystem Time-Dependent Density-Functional Theory’, *J. Chem. Phys*, **2019**, 151,
