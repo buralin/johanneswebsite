@@ -6,12 +6,12 @@ layout: page
 
 ## **Currently**
 
-Postdoctoral researcher in the group of Prof. Dr. Chan at the Caltech.
+Postdoctoral researcher in the group of Prof. Dr. Chan at Caltech.
 
 
 ## **Education**
 
-`Sep. 2021-March 2022 ` __Postodoctoral Researcher__  (University of Münster)
+`09.2021-03.2022 ` __Postodoctoral Researcher__  (University of Münster)
 
 *   **Supervisor:** Prof. Dr. Johannes Neugebauer
 
@@ -44,7 +44,12 @@ Postdoctoral researcher in the group of Prof. Dr. Chan at the Caltech.
 *   `12.11.2020:` 'Subsystem Time-Dependent Density-Functional Theory for modeling of Photo-Induced Process', Organic-Chemistry Institute’s Colloquium, Münster, Germany
 *   `01.04.2021:` 'Subsystem-Based Modeling of Photo-Induced Processes', Virtual group seminar, Chan Group, California Institute of Technology, USA
 
+## **Awards and Grants** 
 
+* [2021 Sigrid Peyerimhoff Award](https://agtc.univie.ac.at/preise/promotion-preis/), Arbeitsgemeinschaft Theoretische Chemie (AGTC)
+
+
+* Walter Benjamin Postdoc Fellowship, German Research Foundation (DFG)
 
 
 
