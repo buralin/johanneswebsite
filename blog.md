@@ -38,7 +38,7 @@ Bereits direkt am Anfang habe ich auch einen Tischtennisverein gefunden.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220315_030338946.jpg" width="200">
 </p>
-Am 15.03 habe ich dann angefangen, am Caltech zu arbeiten. 
+Am 15.03 habe ich dann angefangen am Caltech zu arbeiten. 
 Die Universität ist relativ klein, aber das Gelände ist sehr schön. 
 Viele bekannte Chemiker und Physiker haben hier geforscht und forschen noch immer hier.
 Ein Beispiel ist das Büro von Prof. Rudolph Markus, welches direkt neben dem Büro von meinem Professor ist. Dieser hat 1992 den Nobelpreis in Chemie gewonnen.
