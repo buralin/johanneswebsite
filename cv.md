@@ -11,6 +11,10 @@ Postdoctoral researcher in the group of Prof. Dr. Chan at Caltech.
 
 ## **Education**
 
+`03.2022-today ` __Postodoctoral Researcher__  (Caltech)
+
+* **Supervisor:** Prof. Dr. Garnet Chan
+
 `09.2021-03.2022 ` __Postodoctoral Researcher__  (University of Münster)
 
 *   **Supervisor:** Prof. Dr. Johannes Neugebauer
