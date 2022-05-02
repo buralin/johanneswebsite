@@ -34,7 +34,7 @@ Natürlich musste ich auch in den ersten Tagen einen Burger bei In and Out essen
 </p>
 Neben den ganzen großen Ketten gibt es hier aber viel anderes leckeres Essen.
 Besonders viele mexikanische und asiatische Restaurants gibt es, bei denen man authentisches und leckeres Essen bekommt. Ich habe bereits sehr viele verschiedene asiatische Nudelsuppen probiert.
-Bereits direkt am Anfang habe ich auch einen Tischtennisverein hier in gefunden.
+Bereits direkt am Anfang habe ich auch einen Tischtennisverein gefunden.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220315_030338946.jpg" width="200">
 </p>
