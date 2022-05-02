@@ -28,7 +28,12 @@ In den Tagen nach meiner Ankunft, habe ich die üblichen organisatorischen Aufga
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220311_215953467.jpg" width="100">
 </p>
-
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220310_215900010.jpg" width="100">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220327_224443286.jpg" width="100">
+</p>
 Ich habe mir sogar ein Fahrrad gekauft, um hier ein wenig mobil zu sein. 
 Öffentliche Verkehrsmittel gibt es hier so gut wie nicht und die meisten Leute fahren selbst für die kürzesten Strecken mit dem Auto.
 Ich versuche also als langejähriger Münsteraner den Leuten zu zeigen, dass man auch gut Fahrrad fahren kann.
@@ -41,30 +46,10 @@ Bereits direkt am Anfang habe ich auch eine Tischtennisverein hier in gefunden.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220315_030338946.jpg" width="100">
 </p>
-
-
 Am 15.03 habe ich dann angefangen am Caltech zu arbeiten. 
-An meinem ersten Tag war ich allerdings
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/20220309_162739.jpg" width="100">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/20220309_162739.jpg" width="100">
-</p>
-
-Neues Haus 
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220310_215900010.jpg" width="100">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220311_195918328.jpg" width="100">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220311_215953467.jpg" width="100">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220315_030338946.jpg" width="100">
-</p>
+Die Universität ist relativ klein aber das Gelände ist sehr schön. 
+Viele bekannte Chemiker und Physiker haben hier geforscht und foschen noch immer hier.
+Ein Beisipiel ist das Büro von Prof. Rudolph Markus, welches direkt neben dem Büro von meinem Professor hier ist. Dieser hat 1992 den Nobelpreis in Chemie gewonnen.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220318_211752581.jpg" width="100">
 </p>
@@ -73,6 +58,8 @@ Neues Haus
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220320_173439480.jpg" width="100">
+</p>
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220403_220215834.jpg" width="100">
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220320_173447943.jpg" width="100">
@@ -84,9 +71,7 @@ Neues Haus
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220326_201317835.jpg" width="100">
 </p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220327_224443286.jpg" width="100">
-</p>
+Neues Haus
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220327_230544893.jpg" width="100">
 </p>
@@ -120,8 +105,7 @@ Neues Haus
 </p>
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220402_222215463.jpg" width="100">
 </p>
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220403_220215834.jpg" width="100">
-</p>
+
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220409_162657738.jpg" width="100">
 </p>
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220416_232805879.jpg" width="100">
