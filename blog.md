@@ -92,6 +92,7 @@ Ich wohne jetzt in einem Haus mit 4 Mitbewohnern. Das Haus ist ganz in der Nähe
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220402_215603371.jpg" width="200">
 </p>
+<p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/Pictures/PXL_20220402_220429221.jpg" width="200">
 </p>
 <p align="center">
