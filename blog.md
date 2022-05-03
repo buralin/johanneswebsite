@@ -8,7 +8,7 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 
 
 ## **Meine ersten Monate in den USA:**
-
+Am 09.03 bin ich bei strahlendem Sonnenschein in Los Angeles gelandet.
 Die Sonne war direkt eine willkommene Ablenkung zu dem regnerischen Wetter in Deutschland. Den Weg nach Pasadena habe ich dann mittels Uber angetreten. Dort habe ich die ersten Wochen in einem AirBnB übernachtet. Das AirBnB war sehr schön und in east Pasadena gelegen. Der Vermieter arbeitet als Ingenieur am Jet Propulsion Laboratory (JPL). Das JPL ist ein Teil vom Caltech und baut und entwickelt unter anderem Satelliten und Raumsonden für die NASA. Er selbst hat zum Beispiel an den Reifen des Mars Rovers gearbeitet, was ich sehr spannend fand. In den Tagen nach meiner Ankunft habe ich die üblichen organisatorischen Aufgaben wie Bankkonto und SIM-Karte erledigt.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/20220309_162011.jpg" width="200">
@@ -34,14 +34,14 @@ Natürlich musste ich auch in den ersten Tagen einen Burger bei In and Out essen
 </p>
 Neben den ganzen großen Ketten gibt es hier aber viel anderes leckeres Essen.
 Besonders viele mexikanische und asiatische Restaurants gibt es, bei denen man authentisches und leckeres Essen bekommt. Ich habe bereits sehr viele verschiedene asiatische Nudelsuppen probiert.
-Bereits direkt am Anfang habe ich auch einen Tischtennisverein gefunden.
+In der ersten Woche habe ich dann auch auch einen Tischtennisverein gefunden.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220315_030338946.jpg" width="200">
 </p>
 Am 15.03 habe ich dann angefangen am Caltech zu arbeiten. 
 Die Universität ist relativ klein, aber das Gelände ist sehr schön. 
 Viele bekannte Chemiker und Physiker haben hier geforscht und forschen noch immer hier.
-Ein Beispiel ist das Büro von Prof. Rudolph Markus, welches direkt neben dem Büro von meinem Professor ist. Dieser hat 1992 den Nobelpreis in Chemie gewonnen.
+Ein Beispiel ist das Büro von Prof. Rudolph Markus, welches direkt neben dem Büro von meinem Professor ist. Dieser hat 1992 den Nobelpreis für Chemie gewonnen.
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220318_211752581.jpg" width="200">
 </p>
@@ -96,9 +96,6 @@ Ich wohne jetzt in einem Haus mit 4 Mitbewohnern. Das Haus ist ganz in der Nähe
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220402_220429221.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220402_221926229.jpg" width="200">
-</p>
-<p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220402_222215463.jpg" width="200">
 </p>
 <p align="center">
@@ -126,5 +123,5 @@ Das Wochenende war sehr schön und wir haben in North Park viel leckeres Bier au
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA/PXL_20220417_221652758.jpg" width="200">
 </p>
-Nach guten zwei Monaten muss ich sagen, dass ich langsam angekommen bin. Ich arbeite viel und versuche Fortschritte mit meiner Forschung zu machen. Allerdings musste und muss ich immer noch viele neue Dinge lernen, was ich allerdings sehr spannend und herausfordernd finde.
-Allerdings versuche ich auch das gute Wetter zu genießen und das ganze Fast Food mit ein wenig Sport auszugleichen. Dazu habe ich auch eine Fußballgruppe gefunden, mit denen ich versuche, einmal die Woche zu spielen.
+Nach guten zwei Monaten muss ich sagen, dass ich langsam angekommen bin. Ich arbeite viel und versuche Fortschritte mit meiner Forschung zu machen. Allerdings musste und muss ich immer noch viele neue Dinge lernen, was ich sehr spannend und herausfordernd finde.
+Außerhalb der Arbeit versuche ich auch das gute Wetter zu genießen und das ganze Fast Food mit ein wenig Sport auszugleichen. Neben Tischtennis habe ich auch eine Fußballgruppe gefunden, mit denen ich versuche, einmal die Woche zu spielen.
