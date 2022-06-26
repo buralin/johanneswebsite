@@ -6,8 +6,129 @@ layout: page
 
 In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in den USA berichten. 
 
+1. [Nach drei Monaten](#2)
+2. [Meine ersten Monate in den USA](#1)
 
-## **Meine ersten Monate in den USA:**
+# Nach drei Monaten <a name="2"></a>
+
+Nun sind es schon über drei Monate, die ich in den USA bin und ich bin voll im Alltag angekommen.
+Während der Woche bin ich am arbeiten und abends versuche ich ein wenig Sport zur Ablenkung zu betreiben.
+Am Freitag gibt es dann meistens ein oder zwei Bierchen mit den Arbeitskollegen in einem Restaurant.
+Nichtsdestotrotz gab es auch das ein oder andere Erlebnis in der Zeit seit meinem letzten Blog. Darüber möchte ich hier ein wenig berichten.
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220618_235734138.jpg" width="200">
+</p>
+
+Am 04.05 ging es mit Arbeitskollegen zu einem Baseballspiel der LA Dodgers. 
+Das Stadion ist mit öffentlichen Verkehrsmitteln (ausnahmsweise) sehr gut zu erreichen und Sportereignisse sind immer ein Erlebnis in Amerika.
+Passend dazu gab es einen Dodger Dog (nichts anderes als ein überteuerter Hot Dog) und Knoblauch Pommes.
+Für ein Baseballspiel fand ich das Spiel relativ ereignisreich und wir konnten den ein oder anderen home-run bestaunen.
+Ich hoffe, dass ich es in meiner Zeit hier auch noch zu anderen Sportereignissen schaffe.
+Allerdings sind Football oder Basktetballspiele relativ teuer.
+
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220505_034415200.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220505_022527308.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220505_051811834.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220505_051738403.jpg" width="200">
+</p>
+
+
+Am 20.05 hatte ich das Glück von Carmen und Vanessa zu einem Wochenende in Big Bear eingeladen zu werden. Ich wurde in Riverside eingesammelt und dann ging es auch schon in die Berge.
+Big Bear ist ein relativ nahegelegener Ort in den Bergen.
+Im Winter kann man hier Skifahren und im Sommer wandern und auf dem See, der direkt an den Ort grenzt, Wassersport betreiben. 
+Vielleicht ein wenig überraschend, sind einige Skigebiete gut von LA aus zu erreichen, denn mehr oder weniger im direkten Hinterland befinden sich hohe Berge. Der Ort Big Bear liegt zum Beispiel auf über 2000 m.
+Dort haben wir drei Tage bei super Wetter verbracht und die Zeit genossen.
+Es gab sogar einen deutschen Imbiss mit leckerem Kartoffelsalat und Köstritzer Schwarzbier.
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220521_162726894.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220521_195849334.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220522_163118435.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220522_165111194.jpg" width="200">
+</p>
+
+Eine Woche später ging es dann mit Mitbewohnern zu einem nahe gelegenem Wanderfahrt. 
+Direkt an Pasadena grenzen bereits einige Berge, in denen man schön wandern kann.
+An dem gleichen Wochenende habe ich auch mit Arbeitskollegen eine der vielen kleineren Brauereien hier besucht.
+Hier konnte man sogar, wenn man Karaoke singt, ein Freigetränk bekommen. Ich habe mich allerdings nicht getraut.
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_181402656.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_185118195.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_181402656.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_185128868.jpg" width="200">
+</p>
+
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_195450346.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220529_195740876.jpg" width="200">
+</p>
+
+Am darauf folgendem Wochenende habe ich dann an einem Tischtennisturnier in der Nähe von Santa Monica teilgenommen.
+Der Inhaber des Tischtennisclubs hier in Pasadena hat dort nämlich auch einen Club und hat mich netterweise mit dem Auto mitgenommen. 
+Er ist Schweizer und wir konnten daher zur Abwechselung ein wenig deutsch reden.
+Das Turnier hat wirklich viel Spaß gemacht und ich habe es immerhin bis ins Halbfinale geschafft.
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220605_004737580.jpg" width="200">
+</p>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220605_022511175.jpg" width="200">
+</p>
+
+Letztes Wochenende wurde ich von einem britischen Kollegen zu einer Aufnahme der BBC auf dem Caltech Campus mitgenommen. 
+Es war ein komödiantischer/wissenschaftlicher Podcast über Exoplaneten mit einigen Forschern vom Caltech und auch Comedians aus Großbritannien.
+Unter anderem war Eric Idle von Monty Python dabei.
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220618_180556163.jpg" width="200">
+</p>
+
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA2/PXL_20220618_192040219.jpg" width="200">
+</p>
+
+Nächste Woche muss ich jetzt noch arbeiten, aber dann habe ich zwei Wochen Urlaub. Kati kommt aus Deutschland, ich habe ein Auto gemietet und wir werden einen Roadtrip machen.
+Der nächste Blog wird daher sicherlich sehr ereignisreich.
+Seit gespannt!
+
+# Meine ersten Monate in den USA: <a name="1"></a>
 Am 09.03 bin ich bei strahlendem Sonnenschein in Los Angeles gelandet.
 Die Sonne war direkt eine willkommene Ablenkung zu dem regnerischen Wetter in Deutschland. Den Weg nach Pasadena habe ich dann mittels Uber angetreten. Dort habe ich die ersten Wochen in einem AirBnB übernachtet. Das AirBnB war sehr schön und in east Pasadena gelegen. Der Vermieter arbeitet als Ingenieur am Jet Propulsion Laboratory (JPL). Das JPL ist ein Teil vom Caltech und baut und entwickelt unter anderem Satelliten und Raumsonden für die NASA. Er selbst hat zum Beispiel an den Reifen des Mars Rovers gearbeitet, was ich sehr spannend fand. In den Tagen nach meiner Ankunft habe ich die üblichen organisatorischen Aufgaben wie Bankkonto und SIM-Karte erledigt.
 <p align="center">
