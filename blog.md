@@ -6,8 +6,125 @@ layout: page
 
 In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in den USA berichten. 
 
-1. [Nach drei Monaten](#2)
-2. [Meine ersten Monate in den USA](#1)
+1. [Urlaub](#3)
+2. [Nach drei Monaten](#2)
+3. [Meine ersten Monate in den USA](#1)
+
+
+# Urlaub <a name="3"></a>
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220706_213615772.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_011739909.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220711_233729947.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_030516337.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_043748998.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_161911956.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_231614866.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220708_180836090.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220714_202348022.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_015723543.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220701_023239758.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_171446527.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_033531140.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031457901.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_011106083.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_002124606.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_173401526.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031413774.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_022140518.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220708_203841551.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_001124472.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_035651441.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015917912.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_170804103.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_031002116.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_200632757.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_000103274.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015829348.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_032039275.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_010547470.RESTORED.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_230545699.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220706_031257785.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_044604125.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220630_024141624.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_232544323.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_225258114.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_184044932.jpg" width="200">
+</p>
+
 
 # Nach drei Monaten <a name="2"></a>
 
