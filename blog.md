@@ -44,9 +44,6 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_015723543.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220701_023239758.jpg" width="200">
-</p>
-<p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_171446527.jpg" width="200">
 </p>
 <p align="center">
@@ -107,13 +104,7 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_230545699.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220706_031257785.jpg" width="200">
-</p>
-<p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_044604125.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220630_024141624.jpg" width="200">
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_232544323.jpg" width="200">
