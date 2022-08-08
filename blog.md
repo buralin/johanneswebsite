@@ -12,18 +12,25 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 
 
 # Urlaub <a name="3"></a>
-
+Ende Juni war es dann so weit und Kati ist in Kalifornien angekommen.
+Ich musste allerdings noch eine Woche arbeiten, bevor wir Kalifornien erkunden konnten.
+Aus diesem Grund haben wir versucht abends etwas zu unternehmen und Los Angeles zu erkunden.
+Wir sind daher zum Hollywood Zeichen, Griffith Observatory und Santa Monica Pier gefahren.
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220706_213615772.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_015723543.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_011739909.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220711_233729947.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_035651441.jpg" width="200">
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_030516337.jpg" width="200">
+</p>
+Am 01.07 ging es dann endlich los!
+Die erste Etappe war relativ kurz und führte uns in die Sierra Nevada nach Lone Pine.
+Lone Pine ist ein relativ kleiner, aber sehr schöner Ort und erinnert direkt an Western.
+Aus diesem Grund wurden rund um diese Stadt auch viele Western gedreht und wir haben in einem Motel übernachtet, welches bekannt dafür ist, das viele Darsteller, wie zum Beispiel John Wayne, hier übernachtet haben.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_032039275.jpg" width="200">
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_043748998.jpg" width="200">
@@ -31,6 +38,60 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_161911956.jpg" width="200">
 </p>
+Am nächsten Tag ging es dann zuerst nach Mammoth Lake, was ein bekanntes Skigebiet ist.
+Von dort sind wir durch den Yosemite zu unserer nächsten Zwischenstation Mariposa gefahren.
+Von Mariposa aus kann man Shuttle Busse zu den Hauptwanderrouten im Yosemite nehmen.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_230545699.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_001124472.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_002124606.jpg" width="200">
+</p>
+Weil wir vergessen hatten vorab den Bus reservieren, haben wir einen sehr frühen Bus am nächsten Morgen zum Yosemite genommen, um dort einen Tag zu wandern.
+Wir haben uns für eine mittelschwere Route entschieden, die uns entlang zwei wunderschönen Wasserfällen geführt hat.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_170804103.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_171446527.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_173401526.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_184044932.jpg" width="200">
+</p>
+Am Nationalfeiertag (04.06) sind wir dann am Lake Tahoe angekommen.
+Lake Tahoe ist bekannt für sein klares Wasser und die vielen Berge um den See herum.
+Hier haben wir dir folgenden zwei Tage verbracht und ein wenig entspannt.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_044604125.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_200632757.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220706_213615772.jpg" width="200">
+</p>
+Am letzten Abend wollten wir noch ein Bier in einer Brauerei trinken. 
+Als wir zu Fuß auf dem Weg zu dieser waren, hat ein Bär ungefähr 40 Meter vor uns die Straße überquert.
+Im Anschluss habe ich gelesen, dass es völlig normal ist und das ungefähr 20 Bären auf dem Stadtgelände von South Lake Tahoe leben.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015829348.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015917912.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_022140518.jpg" width="200">
+</p>
+Im Anschluss ging es dann wieder in den Trubel einer Großstadt. 
+Wir sind nach San Francisco gefahren. 
+San Francisco ist meiner Meinung nach eine wirklich schöne und interessante Stadt, die sehr viel zu bieten hat.
+Wir haben uns 3 ganze Tage zeitgenommen die Stadt zu erkunden. 
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_231614866.jpg" width="200">
 </p>
@@ -38,84 +99,55 @@ In diesem Blog werde ich regelmäßig unregelmäßig über meine Erlebnisse in d
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220708_180836090.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220714_202348022.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_015723543.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_171446527.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_033531140.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031457901.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_011106083.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_002124606.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_173401526.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031413774.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_022140518.jpg" width="200">
-</p>
-<p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220708_203841551.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_001124472.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_011739909.jpg" width="200">
 </p>
+Auf dem Weg zur Golden Gate Bridge haben wir ein deutsches Lokal gefunden.
+Ich hatte großen Hunger auf eine Bratwurst und deswegen haben wir dort etwas getrunken und gegessen.
+Zu meiner Überraschung gab es sogar Uerige.
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220628_035651441.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015917912.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_170804103.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_031002116.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_200632757.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_000103274.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220707_015829348.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_032039275.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_010547470.RESTORED.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220702_230545699.jpg" width="200">
-</p>
-<p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220705_044604125.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_225258114.jpg" width="200">
 </p>
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_232544323.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220709_225258114.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_031002116.jpg" width="200">
 </p>
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220703_184044932.jpg" width="200">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220710_033531140.jpg" width="200">
 </p>
-
+Nach unserer Zeit in San Francsisco haben wir uns dann auf den Weg zurück nach Los Angeles gemacht. 
+Wir sind den wunderschönen Highway Number One gefahren.
+Leider hatten wir ein wenig Pech und es war sehr bewölkt.
+Dies scheint in dieser Zeit im Jahr häufig der Fall zu sein.
+Nichts desto trotz haben wir versucht das beste aus der Situation zu machen. 
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220711_233729947.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_000103274.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_010547470.RESTORED.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220712_011106083.jpg" width="200">
+</p>
+Nachdem wir zurück in LA waren, hatten wir noch ein paar Tage Zeit etwas zu unternehmen.
+Ein Highlight war unser Tag in den Universal Studios.
+Die Universal Studios sind wie eine Art Freizeitpark aufebaut und man kann, neben der bekannten Universal Studio Tour, auch andere Shows (zum Beispiel Stunt Show) und Hogwarts besuchen.
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220714_202348022.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031457901.jpg" width="200">
+</p>
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/USA3/PXL_20220715_031413774.jpg" width="200">
+</p>
 
 # Nach drei Monaten <a name="2"></a>
 
