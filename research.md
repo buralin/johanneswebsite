@@ -35,10 +35,17 @@ My research activities are mainly focused on the development of subsystem-based 
 
 ## [Software](https://github.com/qcserenity/serenity) <a name="4"></a>
 
-The methodological developments described above have been realized in two different subsystem-focused quantum chemistry packages, namely Serenity and embedded Quantum Espresso.
+The methodological developments described above have been realized in three different quantum chemistry packages, namely PySCF, Serenity, and embedded Quantum Espresso.
+
+PySCF is a python-based quantum-chemistry software that provides a ``simple, lightweight, and efficient platform for quantum chemistry calculations and methodology development''. The most recent publication can be found [here](https://aip.scitation.org/doi/full/10.1063/5.0006074).
+
+<p align="center">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/pyscf-logo.png" width="300">
+</p>
+
 
 Serenity is a molecular quantum chemistry code mainly developed and maintained in the group of Prof. Dr. Neugebauer at the University of Münster.
-The original publication can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25162?casa_token=bvtyMCoN580AAAAA:wbmKGpRiCC3UgCR4NPWpKcOZ3vq9E_TivPaJaI6vtuQVGqQKHF4nn-8mM7iipu_z1xgNeTG86oyxXgI).
+The original publication can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25162?casa_token=bvtyMCoN580AAAAA:wbmKGpRiCC3UgCR4NPWpKcOZ3vq9E_TivPaJaI6vtuQVGqQKHF4nn-8mM7iipu_z1xgNeTG86oyxXgI) and the newest publication can be found [here](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1647).
 
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/Research/SerenityLogo.png" width="300">
