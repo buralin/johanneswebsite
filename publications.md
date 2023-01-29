@@ -11,7 +11,6 @@ layout: page
 3. [L. Hellmann, **J. Tölle**, N. Niemeyer, and J. Neugebauer, ’Automated Generation of Optimized Auxiliary Basis Sets for Long-Range-Corrected TDDFT Using the Cholesky Decomposition’, *J. Chem. Theory Comput.*, **2022**, 18, 2959](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00131?casa_token=Xwj7pejjOU0AAAAA:JXjFrq0wjlHuUXK3yWvmjhoiaocfpPBeU62jitI73DmBcO7RJLL-iiCiEGJJSJFdHLrmTVHgyotwiOU)
 
 4. [**J. Tölle**, J. Neugebauer,’The Seamless Connection of Local and Collective Excited States in Subsystem Time-Dependent Density Functional Theory’, *J. Phys. Chem. Lett.*, **2022**, 13, 1003](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c04023?casa_token=HI9utkAKZ0sAAAAA:tS0s_6KkDEtPqslJsyCUdJ--Vnxi--QmEpxKDsgV1wkzrgv2zZjD3iXbe5oOhvTqSOxyQ_kg6siFdIN4)
-
     <span style="color:grey">**Addition/Correction:** [*J. Phys. Chem. Lett.*, **2022**, 13, 1742–1743](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00340)</span>.
 
 
@@ -31,7 +30,6 @@ Properties: Reconsidering Failures in Potential and Response’, *J. Chem. Theor
 Energies within Subsystem-based Time-Dependent Density-Functional Theory’, *Int. J. Quantum
 Chem.*, **2020**, e26213
 ](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.26213)
-
     <span style="color:grey">**(top cited article in the Int. J. of Quantum Chem. 2020 -2021)**</span>.
 
 9.  [**J. Tölle**, M. Böckers, N. Niemeyer, J. Neugebauer, ’Inter-Subsystem Charge-Transfer Excitations
@@ -48,7 +46,6 @@ Theory’, *J. Chem. Phys*, **2019**, 150, 181101
 an Impurtiy Model Based on Density Embedding: Application to the ionization potential of liquid
 water’, *Int. J. of Quantum. Chem.*, **2019**, 119, e25801
 ](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25801?casa_token=WkIXLjyqLl0AAAAA%3AaMUoklMOqN2hDZJhBgj9iD5_owUeQBZxv4tggzuHz6WsoRKy1HBKcQa4d-7C1dg1jicwvyiTod8nDg)
-
     <span style="color:grey">**(top 10% of the most downloaded articles in the Int. J. of Quantum Chem. 2018 -2019)**</span>.
 
     
