@@ -47,6 +47,9 @@ Postdoctoral researcher in the group of Prof. Dr. Chan at Caltech.
 *   `24.09.2020:` 'Exact Subsystem Time-Dependent Density-Functional Theory (sTDDFT)', Symposium on theoretical chemistry (STC 2019), Rostock, Germany
 *   `12.11.2020:` 'Subsystem Time-Dependent Density-Functional Theory for modeling of Photo-Induced Process', Organic-Chemistry Institute’s Colloquium, Münster, Germany
 *   `01.04.2021:` 'Subsystem-Based Modeling of Photo-Induced Processes', Virtual group seminar, Chan Group, California Institute of Technology, USA
+*   `29.07.2022:` 'On the relation between the GW approximation and (Unitary) Coupled-Cluster Theory', PySCF developer meating, California Institute of Technology, USA
+*   `20.09.2022:` 2021 Sigrid Peyerimhoff Award talk, Symposium on theoretical chemistry (STC 2022), Heidelberg, Germany
+*   `07.03.2023:` 'Exact relationships between the GW approximation and equation-of-motion coupled-cluster theories through the quasi-boson formalism', Symposium on theoretical chemistry (APS 2023), Las Vegas, USA
 
 ## **Awards and Grants** 
 
