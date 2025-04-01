@@ -6,12 +6,17 @@ layout: page
 
 ## **Currently**
 
-Postdoctoral researcher in the group of Prof. Dr. Chan at Caltech.
-
+Junior research group leader at the University of Hamburg, supported by the Liebig Fellowship of the Fonds der Chemischen Industrie (FCI).
 
 ## **Education**
 
-`03.2022-today ` __Postodoctoral Researcher__  (Caltech)
+`04.2025-today ` __Junior Research Group Leader__  (University of Hamburg)
+
+
+`08.2024-04.2025 ` __Junior Research Group Leader__  (University of Münster)
+
+
+`03.2022-08.2024 ` __Postodoctoral Researcher__  (Caltech)
 
 * **Supervisor:** Prof. Dr. Garnet Chan
 
@@ -50,8 +55,30 @@ Postdoctoral researcher in the group of Prof. Dr. Chan at Caltech.
 *   `29.07.2022:` 'On the relation between the GW approximation and (Unitary) Coupled-Cluster Theory', PySCF developer meating, California Institute of Technology, USA
 *   `20.09.2022:` 2021 Sigrid Peyerimhoff Award talk, Symposium on theoretical chemistry (STC 2022), Heidelberg, Germany
 *   `07.03.2023:` 'Exact relationships between the GW approximation and equation-of-motion coupled-cluster theories through the quasi-boson formalism', American Physical Society (APS 2023), Las Vegas, USA
-
+* `14.09.2023:` ’Effective Hamiltonian Theory: A bridge between condensed matter physics and quantum
+chemistry’, Symposium on theoretical chemistry (STC 2023), Zürich, Switzerland
+* `12.12.2023:` ’Quantum chemistry in the condensed phase’, Organic-Chemistry Institute’s Colloquium,
+Münster, Germany
+* `14.12.2023:` ’Quantum chemistry in the condensed phase’, Meerholz Group, Cologne, Germany
+* `18.12.2023:` ’The power of quantum embedding methods’, Institute of Solid State Theory, Münster,
+Germany
+* `07.03.2024:` ’AB-G0W0: A practical G0W0 method without frequency integration based on an auxiliary
+boson expansion’, American Physical Society (APS 2024), Minneapolis, USA
+* `05.06.2024:` ’Quantum chemistry in the condensed phase’, Institute of Inorganic and Applied Chemistry,
+Hamburg, Germany
+* `05.09.2024:` ’Microscopic insights into electronic phase transitions in quantum materials using coupled
+cluster theory’, Symposium on theoretical chemistry (STC 2024), Braunschweig, Germany
+* `26.11.2024:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical
+condensed matter physics seminar (Grüneis Group), Wien, Austria
+* `10.12.2024:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Seminar
+(Kottmann Group), Augsburg, Germany
+* `28.02.2025:` ’Microscopic insights into electronic phase transitions in quantum materials through quantum
+embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
+* `06.03.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, LCPQ
+seminar, Toulouse, France
 ## **Awards and Grants** 
+
+* [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
 
 * [2021 Sigrid Peyerimhoff Award](https://agtc.univie.ac.at/preise/promotion-preis/), Arbeitsgemeinschaft Theoretische Chemie (AGTC)
 

@@ -1,6 +1,6 @@
 title: "Johannes Tölle"
 author: "Johannes Tölle"
-description: "Caltech"
+description: "University of Hamburg"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,11 +19,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md"}
   - {file: "publications.md"}
   - {file: "cv.md"}
-  - {file: "blog.md"}
+  - {file: "People.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jtolle@caltech.de"}
+  - {title: Mail, icon: envelope, url: "mailto:jojotoel@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/buralin/johanneswebsite"}
 #  - {title: , icon: rss, url: "/feed.xml"}
 
