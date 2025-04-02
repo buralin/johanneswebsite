@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md"}
   - {file: "publications.md"}
   - {file: "cv.md"}
-  - {file: "People.md"}
+  - {file: "people.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

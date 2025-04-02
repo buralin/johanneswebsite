@@ -5,7 +5,7 @@ title: "Biography"
 
 
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/ToelleLab.001.jpeg" width="150">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/ToelleLab.001.jpeg" width="450">
 </p>
 
 My name is Johannes Tölle, and I am currently a junior research group leader at the [University of Hamburg](https://www.chemie.uni-hamburg.de/institute/ac/arbeitsgruppen/herrmann/team/mitarbeiter/johannestoelle.html) in the field of theoretical chemistry.
