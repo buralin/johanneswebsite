@@ -4,6 +4,8 @@ permalink: "/research/"
 layout: page
 ---
 
+We are a junior research group focussing on developing efficient and accurate electronic structure methods that enable the simulation of quantum mechanical properties of molecules and materials in their ground- and excited state.
+
 
 1. [Photo-induced Processes](#1)
 2. [Diagrammatic Electronic Structure Theory](#2)
