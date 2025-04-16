@@ -22,7 +22,7 @@ We are a junior research group focussing on developing efficient and accurate el
 ## [Diagrammatic Electronic Structure Theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5c00046) <a name="2"></a>
 
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/HedinGW.pdf" width="450">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/HedinGW.png" width="450">
 </p>
 
 
@@ -51,7 +51,7 @@ The original publication can be found [here](https://onlinelibrary.wiley.com/doi
 </p>
 
 
-The block2 code provides an efficient and highly scalable implementation of the Density Matrix Renormalization Group (DMRG) for quantum chemistry, based on the Matrix Product Operator (MPO) formalism. The block2 code is developed and maintained in Garnet Chan group at Caltech. The most recent publication can be found [here](https://doi.org/10.1063/5.0180424) 
+The block2 code provides an efficient and highly scalable implementation of the Density Matrix Renormalization Group (DMRG) for quantum chemistry, based on the Matrix Product Operator (MPO) formalism. The block2 code is developed and maintained in Garnet Chan group at Caltech. The most recent publication can be found [here](https://doi.org/10.1063/5.0180424). 
 
 <p align="center">
 <img src="https://buralin.github.io/johanneswebsite/Pictures/Research/block2-logo.png" width="250">
