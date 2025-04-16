@@ -29,7 +29,7 @@ We are a junior research group focussing on developing efficient and accurate el
 ## [Quantum Materials](https://www.nature.com/articles/s41467-025-56883-x) <a name="3"></a>
 
 <p align="center">
-<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/cuprates.png" width="300">
+<img src="https://buralin.github.io/johanneswebsite/Pictures/Research/cuprates.png" width="500">
 </p>
 
 ## [Software](https://github.com/qcserenity/serenity) <a name="4"></a>
