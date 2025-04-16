@@ -1,8 +1,8 @@
 ---
-title: "Blog"
-permalink: "/blog/"
+title: "People"
+permalink: "/people/"
 layout: page
 ---
 
 
-under construction ...
+under construction ... 

@@ -11,7 +11,7 @@ layout: page
 
 ## **Publications**
 
-1. **J. Tölle**, ‘Fully analytic G<sub>0</sub>W<sub>0</sub> nuclear gradients’, *J. Phys. Chem. Lett.*, **2025**, just accepted
+1. [**J. Tölle**, ‘Fully analytic G<sub>0</sub>W<sub>0</sub> nuclear gradients’, *J. Phys. Chem. Lett.*, **2025**, 16, 3672–3678](https://doi.org/10.1021/acs.jpclett.5c00046)
 
 2. [Z. Cui, J. Yang, **J. Tölle**, H. Z. Ye, H. Zhai, R. Kim, X. Zhang, L. Lin, T. C. Berkelbach, G. K. L. Chan,
 'Ab initio quantum many-body description of superconducting trends in the cuprates', *Nat. Comm.*, **2025**, 16, 1845](https://www.nature.com/articles/s41467-025-56883-x)
@@ -19,13 +19,13 @@ layout: page
 3. [**J. Tölle**, G. K.-L. Chan, 'AB-G0W0: An efficient G0W0 method without frequency integration based on an
 auxiliary boson expansion', *J. Chem. Phys.*, **2024**, 160, 164108](https://pubs.aip.org/aip/jcp/article-abstract/160/16/164108/3284621/AB-G0W0-A-practical-G0W0-method-without-frequency?redirectedFrom=fulltext)
 
-4. [S. Käfer, N. Niemeyer, J. Tölle, J. Neugebauer, 'Triplet Excitation-Energy Transfer Couplings from
+4. [S. Käfer, N. Niemeyer, **J. Tölle**, J. Neugebauer, 'Triplet Excitation-Energy Transfer Couplings from
 Subsystem Time-Dependent Density-Functional Theory', *J. Chem. Theory Comput.*, **2024**, 6, 2475](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c01365)
 
-5. [J. Tölle, N. Niemeyer, J. Neugebauer, 'Accelerating Analytic-Continuation GW Calculations with a
+5. [**J. Tölle**, N. Niemeyer, J. Neugebauer, 'Accelerating Analytic-Continuation GW Calculations with a
 Laplace Transform and Natural Auxiliary Functions', *J. Chem. Theory Comput.*, **2024**, 5, 2022](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c01264)
 
-6. [H. Zhai, H. R. Larsson, S. Lee, Z. Cui, T. Zhu, C. Sun, L. Peng, R. Peng, K. Liao, J. Tölle, J. Yang, S.
+6. [H. Zhai, H. R. Larsson, S. Lee, Z. Cui, T. Zhu, C. Sun, L. Peng, R. Peng, K. Liao, **J. Tölle**, J. Yang, S.
 Li, G. K. L. Chan, 'Block2: a comprehensive open source framework to develop and apply state-of-the-art
 DMRG algorithms in electronic structure and beyond', *J. Chem. Phys.*, **2023**, 159, 234801](https://pubs.aip.org/aip/jcp/article-abstract/159/23/234801/2930207/Block2-A-comprehensive-open-source-framework-to?redirectedFrom=fulltext)
 

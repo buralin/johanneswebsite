@@ -80,11 +80,9 @@ seminar, Toulouse, France
 
 * [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
 
+* [2022-2024 Walter Benjamin Postdoc Fellowship](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/walter-benjamin), German Research Foundation (DFG)
+
 * [2021 Sigrid Peyerimhoff Award](https://agtc.univie.ac.at/preise/promotion-preis/), Arbeitsgemeinschaft Theoretische Chemie (AGTC)
-
-
-* Walter Benjamin Postdoc Fellowship, German Research Foundation (DFG)
-
 
 
 <!-- ### Footer
