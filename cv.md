@@ -74,8 +74,8 @@ condensed matter physics seminar (Grüneis Group), Wien, Austria
 (Kottmann Group), Augsburg, Germany
 * `28.02.2025:` ’Microscopic insights into electronic phase transitions in quantum materials through quantum
 embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
-* `06.03.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, LCPQ
-seminar, Toulouse, France
+* `06.03.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, LCPQ seminar, Toulouse, France
+* `09.04.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, 2nd Workshop on Excited-State Methods, Toulouse, France
 ## **Awards and Grants** 
 
 * [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
