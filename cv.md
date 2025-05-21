@@ -46,7 +46,6 @@ Junior research group leader at the University of Hamburg, supported by the Lieb
 
 
 ## **Talks** 
-
 *   `16.05.2019:` 'Exact Subsystem Time-Dependent Density-Functional Theory (sTDDFT)', CMTC Mini-symposium on Uncertainty in Quantum Chemistry, Münster, Germany
 *   `26.08.2019:` 'Exact Subsystem Time-Dependent Density-Functional Theory (sTDDFT)', Invited to group seminar, Rutgers Newark, USA
 *   `24.09.2020:` 'Exact Subsystem Time-Dependent Density-Functional Theory (sTDDFT)', Symposium on theoretical chemistry (STC 2019), Rostock, Germany
@@ -76,6 +75,9 @@ condensed matter physics seminar (Grüneis Group), Wien, Austria
 embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 * `06.03.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, LCPQ seminar, Toulouse, France
 * `09.04.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, 2nd Workshop on Excited-State Methods, Toulouse, France
+* `12.05.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, AC Colloquium , Hamburg, Germany 
+* `21.05.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, CFEL Seminar, Hamburg, Germany 
+
 ## **Awards and Grants** 
 
 * [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
