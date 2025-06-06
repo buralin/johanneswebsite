@@ -77,6 +77,7 @@ embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 * `09.04.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, 2nd Workshop on Excited-State Methods, Toulouse, France
 * `12.05.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, AC Colloquium , Hamburg, Germany 
 * `21.05.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, CFEL Seminar, Hamburg, Germany 
+* `05.06.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Aachen, Germany 
 
 ## **Awards and Grants** 
 
