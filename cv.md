@@ -79,6 +79,19 @@ embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 * `21.05.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, CFEL Seminar, Hamburg, Germany 
 * `05.06.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Aachen, Germany 
 
+* `28.08.2025:` ’Fully Analytic GW and GW-BSE Nuclear Gradients’, PSI-K Conference, Lausanne, Switzerland
+
+* `09.09.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Strasbourg, France
+
+* `11.11.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Vrije Universiteit Amsterdam, Netherlands
+
+* `19.11.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, CUI Annual Meeting, Hohwacht, Germany
+
+* `25.11.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Wehling Group, University of Hamburg, Germany
+
+* `27.11.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, University of Bonn, Germany
+
+
 ## **Awards and Grants** 
 
 * [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
