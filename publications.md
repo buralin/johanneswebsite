@@ -6,7 +6,10 @@ layout: page
 
 ## **Preprints**
 
-1. M.-P. Kitsaras, **J. Tölle**, P.-F. Loos, 'Analytic  gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment', arXiv:2510.23275, **2025**
+1. J. Krieger, **J. Tölle**, 'Renormalization group approach to second-order Green's function theory', arXiv:2512.11410, **2025**
+
+2. M.-P. Kitsaras, **J. Tölle**, P.-F. Loos, Analytic  gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment', arXiv:2510.23275, **2025**
+
 
 ## **Publications**
 
