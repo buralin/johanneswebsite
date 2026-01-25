@@ -91,7 +91,7 @@ embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 
 * `27.11.2025:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, University of Bonn, Germany
 
-* `14.01.2026`: ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Physical Chemistry Seminar, Technical University Braunschweig, Germany
+* `14.01.2026:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Physical Chemistry Seminar, Technical University Braunschweig, Germany
 
 ## **Awards and Grants** 
 
