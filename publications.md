@@ -8,10 +8,12 @@ layout: page
 
 1. J. Krieger, **J. Tölle**, 'Renormalization group approach to second-order Green's function theory', arXiv:2512.11410, **2025**
 
+1. **J. Tölle**, M.-P. Kitsaras, A. Irmler, A. Grüneis, P.-F. Loos, 'Connection between *GW* and Extended Coupled Cluster', arXiv:2602.10887, **2026**
 
 ## **Publications**
 
-1. M.-P. Kitsaras, **J. Tölle**, P.-F. Loos, Analytic  gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment', ***just accepted*** J. Chem. Phys. **2026**; (arXiv:2510.23275, 2025)
+1. [M.-P. Kitsaras, **J. Tölle**, P.-F. Loos, Analytic  gradients based on a double-similarity transformation equation-of-motion coupled-cluster treatment', *J. Chem. Phys.* **2026**, 164, 044122](https://pubs.aip.org/aip/jcp/article/164/4/044122/3378127)
+
 
 2. [**J. Tölle**, M.-P. Kitsaras, P.-F. Loos, 'Fully Analytic Nuclear Gradients for the Bethe–Salpeter Equation', *J. Phys. Chem. Lett.*, **2025**, 43, 11134](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5c02219)
 
