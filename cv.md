@@ -95,6 +95,9 @@ embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 
 * `03.02.2026:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Marburg University, Germany
 
+* `08.05.2026:` ’Connection between $GW$ and Extended Coupled Cluster Theory’, Conference: Constructive atomistic modeling
+of matter - 2026, Bremen, Germany
+
 * `24.06.2026:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Workshop on Electronic-structure theory and open quantum systems (ESOQS), Trondheim, Norway
 
 
