@@ -6,7 +6,7 @@ layout: page
 
 ## **Currently**
 
-Junior research group leader at the University of Hamburg, supported by the Liebig Fellowship of the Fonds der Chemischen Industrie (FCI).
+Junior research group leader at the University of Hamburg, supported by the Emmy Noether Programme of the German Research Foundation (DFG).
 
 ## **Education**
 
@@ -95,10 +95,15 @@ embedding’, Workshop on Theoretical Chemistry, Bad Hofgastein, Austria
 
 * `03.02.2026:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Theoretical Chemistry Seminar, Marburg University, Germany
 
+* `24.06.2026:` ’A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods’, Workshop on Electronic-structure theory and open quantum systems (ESOQS), Trondheim, Norway
+
 
 ## **Awards and Grants** 
 
-* [2025 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
+* [2026- Emmy Noether Research Group Leader](https://www.uni-hamburg.de/en/newsroom/presse/2026/pm13.html), German Research Foundation (DFG)
+
+
+* [2025-2026 Liebig Fellow](https://www.vci.de/fonds/stipendien/liebig-stipendium/seiten.jsp), Fonds der Chemischen Industrie (FCI)
 
 * [2022-2024 Walter Benjamin Postdoc Fellowship](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/walter-benjamin), German Research Foundation (DFG)
 
